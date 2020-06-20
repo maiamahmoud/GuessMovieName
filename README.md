@@ -1,2 +1,2 @@
 # GuessMovieName
-simple android application
+guess the movie from the description 
